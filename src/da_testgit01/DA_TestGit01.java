@@ -15,7 +15,7 @@ public class DA_TestGit01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello Worldfrom GIT!");
     }
     
 }
