@@ -16,6 +16,7 @@ public class DA_TestGit01 {
      */
     public static void main(String[] args) {
         System.out.println("Hello Worldfrom GIT!");
+        System.out.println("Hallllloooo");
     }
     
 }
